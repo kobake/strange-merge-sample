@@ -21,3 +21,5 @@ git checkout master
 git merge --allow-unrelated-histories --no-edit BranchX
 sleep 1
 ```
+
+![](https://raw.githubusercontent.com/kobake/strange-merge-sample/master/sourcetree.png)
